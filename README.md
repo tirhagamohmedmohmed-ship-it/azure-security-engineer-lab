@@ -59,7 +59,7 @@ Configured Firewall Rule Collection Groups.
 
 ---
 
-## 4. Log Analytics
+## 5. Log Analytics
 
 ### 05. Log Analytics Workspace Creation
 
