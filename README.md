@@ -1,5 +1,11 @@
 # Azure Security Engineer Lab (AZ-500)
 
+
+
+## Architecture
+
+![Architecture Diagram](architecture-diagram.png)
+
 ## Overview
 
 This repository documents my hands-on Azure Security labs while preparing for the Microsoft AZ-500 certification.
