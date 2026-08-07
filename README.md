@@ -4,7 +4,7 @@
 
 ## Architecture
 
-![Architecture Diagram](48-architecture-diagram.png)
+![48](48-architecture-diagram.png)
 
 ## Overview
 
