@@ -3,7 +3,6 @@
 
 
 ## Architecture
-
 ![48](48-architecture-diagram.png)
 
 ## Overview
