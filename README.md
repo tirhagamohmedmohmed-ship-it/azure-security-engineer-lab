@@ -153,7 +153,7 @@ Successfully deployed Azure Firewall into the Azure Virtual Network.
 
 ### 15. Add Network Rule Collection
 
-![15](15-Add-Network-Rule-Collection.png)
+![15](15-Add-Firewall-Rule-Collection.png)
 
 Created a new Azure Firewall Network Rule Collection to define allowed network traffic based on source, destination, protocol, and destination ports.
 
